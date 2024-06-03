@@ -27,6 +27,6 @@
 
 ## button classes
 
-```
+```javascript
 <button className='px-2 py-1 bg-green-500 capitalize font-semibold m-6 rounded-md'>button</button>
 ```
