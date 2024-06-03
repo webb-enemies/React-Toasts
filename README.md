@@ -1,7 +1,7 @@
 # React-Toasts
 
 ## Tostcompo classes
-```
+```javascript
       <div className=' w-[35rem] fixed flex flex-col justify-between bottom-2 right-2 h-[5rem] rounded-md bg-black text-white z-[999] p-2'>
 
         <div className='flex w-full justify-between h-[50%] items-center'>
